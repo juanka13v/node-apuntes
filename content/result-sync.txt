@@ -1,0 +1,1 @@
+Hello is the result: hello this is firts text value., hello this is second text value.Hello is the result: hello this is firts text value., hello this is second text value.
