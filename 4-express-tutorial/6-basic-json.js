@@ -5,11 +5,7 @@ const {products} = require('./data.js');
 
 
 app.get('/', (req, res) => {
-    res.send('<h1>Home Page</h1><a href="/api/products">Products</a>');
-})
-
-app.get('/api/products', (req,res) => {
-    
+    res.json(products);
 })
 
 
